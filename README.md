@@ -12,7 +12,7 @@ Hi, I'm Joseph. 👋
 - Version Control: Git
 
 ## 💡 Projects
-- [Online Print](https://onlineprint.azurewebsites.net/)
+- [Online Print](https://github.com/joseph0711/OnlinePrint)
 
 ## 🔗 Get in touch
 - [Github.io](http://joseph0711.github.io/)
