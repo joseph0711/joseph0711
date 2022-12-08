@@ -15,5 +15,5 @@ Hi, I'm Joseph. 👋
 - [Online Print](https://onlineprint.azurewebsites.net/)
 
 ## 🔗 Get in touch
-- [Github.io](https://github.com/joseph0711)
+- [Github.io](http://joseph0711.github.io/)
 - [Medium](https://medium.com/@joseph900711/about)
